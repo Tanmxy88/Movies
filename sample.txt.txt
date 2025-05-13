@@ -1,1 +1,3 @@
 sample text file
+
+new updated file where only used git push 
